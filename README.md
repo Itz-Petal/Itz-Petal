@@ -115,7 +115,7 @@ I'm happy to connect with fellow developers, writers, designers, and curious min
 
 [![Email](https://img.shields.io/badge/Email-Say%20hello-EB5D64?style=for-the-badge&logo=gmail&logoColor=white)](mailto:attiy.work@gmail.com)
 
-[![Instagram](https://img.shields.io/badge/Instagram-Add%20my%20profile-D83E83?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/REPLACE_WITH_USERNAME/)
+[![Instagram](https://img.shields.io/badge/Instagram-Add%20my%20profile-D83E83?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz_petall/?__pwa=1#)
 
 [![Quora](https://img.shields.io/badge/Quora-Find%20my%20writing-B922A1?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Atia-Hamed-1)
 
