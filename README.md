@@ -117,7 +117,7 @@ I'm happy to connect with fellow developers, writers, designers, and curious min
 
 [![Instagram](https://img.shields.io/badge/Instagram-Add%20my%20profile-D83E83?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/REPLACE_WITH_USERNAME/)
 
-[![Quora](https://img.shields.io/badge/Quora-Find%20my%20writing-B922A1?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/REPLACE_WITH_PROFILE/)
+[![Quora](https://img.shields.io/badge/Quora-Find%20my%20writing-B922A1?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Atia-Hamed-1)
 
 </div>
 
