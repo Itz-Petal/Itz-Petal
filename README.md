@@ -129,6 +129,6 @@ I'm happy to connect with fellow developers, writers, designers, and curious min
 
 *Made with curiosity and a little Petal magic.* 🧡💗
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:F87942,45:EB5D64,75:D83E83,100:B922A1" width="100%" alt="Orange to pink gradient footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:C7DEFF,45:8FB8F8,75:668FE0,100:DCE8F5" width="100%" alt="Orange to pink gradient footer"/>
 
 </div>
