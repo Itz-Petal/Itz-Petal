@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:628ccc,45:2596be,75:668FE0,100:#050600&text=ITZ_PETAL&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=Code%20%E2%80%A2%20Create%20%E2%80%A2%20Grow&descAlignY=58&descSize=18" width="100%" alt="ITZ_PETAL gradient banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:628ccc,45:2596be,75:668FE0,100:#050600&text=ITZ_PETAL&fontColor=cfd9e8&fontSize=55&fontAlignY=38&desc=Code%20%E2%80%A2%20Create%20%E2%80%A2%20Grow&descAlignY=58&descSize=18" width="100%" alt="ITZ_PETAL gradient banner"/>
 
 ### 🌸 A little code, a little creativity, a lot of curiosity.
 
