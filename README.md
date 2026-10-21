@@ -36,7 +36,7 @@ I love the idea of combining logic with imagination — building things with cod
 
 ## 🛠️ My Toolkit
 
-<div align="center">
+<div align="left">
   <p><strong>✨ Tools I’m growing with</strong></p>
 </div>
 
