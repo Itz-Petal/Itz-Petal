@@ -43,11 +43,11 @@ I love the idea of combining logic with imagination — building things with cod
 ### 💻 Development
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-D83E83?style=for-the-badge&logo=html5&logoColor=white" width="150" alt="HTML5" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-628CCC?style=for-the-badge&logo=css3&logoColor=white" width="150" alt="CSS3" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F87942?style=for-the-badge&logo=javascript&logoColor=black" width="180" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-668FE0?style=for-the-badge&logo=typescript&logoColor=white" width="180" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/C%23-B922A1?style=for-the-badge&logo=csharp&logoColor=white" width="140" alt="C#" />
+  <img src="https://img.shields.io/badge/HTML5-D83E83?style=for-the-badge&logo=html5&logoColor=white" width="100" alt="HTML5" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-628CCC?style=for-the-badge&logo=css3&logoColor=white" width="100" alt="CSS3" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F87942?style=for-the-badge&logo=javascript&logoColor=black" width="100" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-668FE0?style=for-the-badge&logo=typescript&logoColor=white" width="100" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C%23-B922A1?style=for-the-badge&logo=csharp&logoColor=white" width="100" alt="C#" />
 </div>
 
 ### 🗄️ Databases & Deployment
