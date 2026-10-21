@@ -36,28 +36,32 @@ I love the idea of combining logic with imagination — building things with cod
 
 ## 🛠️ My Toolkit
 
+<div align="center">
+  <p><strong>✨ Tools I’m growing with</strong></p>
+</div>
+
 ### 💻 Development
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-D83E83?style=for-the-badge&logo=html5&logoColor=white" width="150" alt="HTML5" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-628CCC?style=for-the-badge&logo=css3&logoColor=white" width="150" alt="CSS3" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F87942?style=for-the-badge&logo=javascript&logoColor=black" width="170" alt="JavaScript" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-668FE0?style=for-the-badge&logo=typescript&logoColor=white" width="170" alt="TypeScript" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-D83E83?style=for-the-badge&logo=html5&logoColor=white" width="150" alt="HTML5" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-628CCC?style=for-the-badge&logo=css3&logoColor=white" width="150" alt="CSS3" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F87942?style=for-the-badge&logo=javascript&logoColor=black" width="180" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-668FE0?style=for-the-badge&logo=typescript&logoColor=white" width="180" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C%23-B922A1?style=for-the-badge&logo=csharp&logoColor=white" width="140" alt="C#" />
 </div>
 
 ### 🗄️ Databases & Deployment
 
 <div align="center">
-  <img src="https://img.shields.io/badge/MySQL-628CCC?style=for-the-badge&logo=mysql&logoColor=white" width="150" alt="MySQL" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Supabase-7EE081?style=for-the-badge&logo=supabase&logoColor=white" width="170" alt="Supabase" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-628CCC?style=for-the-badge&logo=mysql&logoColor=white" width="150" alt="MySQL" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Supabase-7EE081?style=for-the-badge&logo=supabase&logoColor=white" width="180" alt="Supabase" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Vercel-2596BE?style=for-the-badge&logo=vercel&logoColor=white" width="150" alt="Vercel" />
 </div>
 
 ### 🎨 Creative Tools
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Canva-F87942?style=for-the-badge&logo=canva&logoColor=white" width="170" alt="Canva" />
+  <img src="https://img.shields.io/badge/Canva-F87942?style=for-the-badge&logo=canva&logoColor=white" width="180" alt="Canva" />
 </div>
 
 - Visual design and creative editing
