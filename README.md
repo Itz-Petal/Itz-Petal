@@ -2,15 +2,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:628ccc,45:2596be,75:668FE0,100:050600&text=ITZ_PETAL&fontColor=cfd9e8&fontSize=55&fontAlignY=38&desc=Code%20%E2%80%A2%20Design%20%E2%80%A2%20Curiosity" alt="ITZ PETAL banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:628ccc,45:2596be,75:7EE081,100:050600&text=ITZ_PETAL&fontColor=cfd9e8&fontSize=55&fontAlignY=38&desc=Code%20%E2%80%A2%20Design%20%E2%80%A2%20Curiosity" alt="ITZ PETAL banner" />
 
 ### 🌸 A little code, a little creativity, a lot of curiosity.
 
 *Developer in progress · Creative thinker · Writer*
 
-[![GitHub](https://img.shields.io/badge/GitHub-ITZ--PETAL-B922A1?style=flat-square&logo=github&logoColor=white)](https://github.com/Itz-Petal)
-[![Email](https://img.shields.io/badge/Email-Contact%20me-D83E83?style=flat-square&logo=gmail&logoColor=white)](mailto:attiy.work@gmail.com)
-![Learning](https://img.shields.io/badge/Always-Learning-F87942?style=flat-square)
+[![GitHub](https://img.shields.io/badge/GitHub-ITZ--PETAL-D83E83?style=flat-square&logo=github&logoColor=white)](https://github.com/Itz-Petal)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-F87942?style=flat-square&logo=gmail&logoColor=white)](mailto:attiy.work@gmail.com)
+![Learning](https://img.shields.io/badge/Always-Learning-7EE081?style=flat-square)
 
 </div>
 
@@ -47,7 +47,7 @@ I love the idea of combining logic with imagination — building things with cod
 ### 🗄️ Databases & Deployment
 
 ![MySQL](https://img.shields.io/badge/MySQL-628CCC?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-D83E83?style=flat-square&logo=supabase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-7EE081?style=flat-square&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-2596BE?style=flat-square&logo=vercel&logoColor=white)
 
 ### 🎨 Creative Tools
@@ -111,11 +111,11 @@ I'm happy to connect with fellow developers, writers, designers, and curious min
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Visit%20my%20profile-B922A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itz-Petal)
+[![GitHub](https://img.shields.io/badge/GitHub-Visit%20my%20profile-D83E83?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itz-Petal)
 
-[![Email](https://img.shields.io/badge/Email-Say%20hello-D83E83?style=for-the-badge&logo=gmail&logoColor=white)](mailto:attiy.work@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-F87942?style=for-the-badge&logo=gmail&logoColor=white)](mailto:attiy.work@gmail.com)
 
-[![Instagram](https://img.shields.io/badge/Instagram-Add%20my%20profile-F87942?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz_petall/?__pwa=1#)
+[![Instagram](https://img.shields.io/badge/Instagram-Add%20my%20profile-7EE081?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz_petall/?__pwa=1#)
 
 [![Quora](https://img.shields.io/badge/Quora-Find%20my%20writing-B922A1?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Atia-Hamed-1)
 
@@ -129,6 +129,6 @@ I'm happy to connect with fellow developers, writers, designers, and curious min
 
 *Made with curiosity and a little Petal magic.* 🧡💗
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:628ccc,45:2596be,75:668FE0,100:050600" width="100%" alt="Pink to blue gradient footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:628ccc,45:2596be,75:7EE081,100:050600" width="100%" alt="Blue and green gradient footer"/>
 
 </div>
