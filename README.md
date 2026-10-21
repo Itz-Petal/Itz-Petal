@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:F87942,45:EB5D64,75:D83E83,100:B922A1&text=ITZ_PETAL&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=Code%20%E2%80%A2%20Create%20%E2%80%A2%20Grow&descAlignY=58&descSize=18" width="100%" alt="ITZ_PETAL gradient banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:628ccc,45:2596be,75:668FE0,100:#050600&text=ITZ_PETAL&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=Code%20%E2%80%A2%20Create%20%E2%80%A2%20Grow&descAlignY=58&descSize=18" width="100%" alt="ITZ_PETAL gradient banner"/>
 
 ### 🌸 A little code, a little creativity, a lot of curiosity.
 
@@ -129,6 +129,6 @@ I'm happy to connect with fellow developers, writers, designers, and curious min
 
 *Made with curiosity and a little Petal magic.* 🧡💗
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:C7DEFF,45:2596be,75:668FE0,100:#050600" width="100%" alt="Orange to pink gradient footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:628ccc,45:2596be,75:668FE0,100:#050600" width="100%" alt="Orange to pink gradient footer"/>
 
 </div>
